@@ -1,6 +1,7 @@
 # housing
 
 Housing Affordability by Sean Mannisto
+
 This notebook:
 
 - Creates the dataset for my Tableau visualization of housing affordability at: https://public.tableau.com/app/profile/sean.mannisto/viz/HousingPricetoIncomeRatios/Sheet1
