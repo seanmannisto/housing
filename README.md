@@ -1,6 +1,7 @@
 # housing
 
 Housing Affordability by Sean Mannisto
+
 This notebook:
 
 Creates the dataset for my Tableau visualization of housing affordability at: https://public.tableau.com/app/profile/sean.mannisto/viz/HousingPricetoIncomeRatios/Sheet1
@@ -18,8 +19,11 @@ Zillow "Housing Value Index All Homes Time Series Smoothed Seasonally Adjusted" 
 USDA "Unemployment and median household income for the U.S., States, and counties, 2000-2021" https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data/
 
 US Census API American Community Survey 2021
+
 B25103_001E is "Median Real Estate Taxes Paid (Dollars)"
+
 B01003_001E is "Estimate, Total Population"
+
 Notes:
 
 Federal Information Processing Standards (FIPS) code used as county index.
